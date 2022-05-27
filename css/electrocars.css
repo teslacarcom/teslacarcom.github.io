@@ -1,0 +1,90 @@
+*{
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    color: white;
+    background-color: black;
+}
+.basic_block{
+display: flex;
+}
+
+
+.maseratti_img{
+    top: 0;
+    left: 0;
+    margin-left: 20%;
+    width: 80%;
+    height: 90vh;
+}
+.basic_block_p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    position: absolute;
+    z-index: 1;
+    background-color: transparent;
+}
+
+.middle_block{
+    height: 1250px;
+    border-bottom: 1px solid orange;
+}
+.first_img{
+    margin-left: 20%;
+    width: 60%;
+    height: 80vh;
+}
+.second_img{
+    margin-left: 20%;
+    width: 60%;
+    height: 80vh;
+}
+.first_p{
+    width: 60%;
+    margin-left: 20%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.second_middle_block{
+    height: 1280px;
+    border-bottom: 1px solid orange;
+}
+
+.third_img{
+    margin-top: 3%;
+    margin-left: 20%;
+    width: 60%;
+    height: 80vh;
+}
+.fourth_img{
+    margin-left: 20%;
+    width: 60%;
+    height: 80vh;
+}
+.second_p{
+    width: 60%;
+    margin-left: 20%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+.fives_img{
+    margin-top: 3%;
+    margin-left: 20%;
+    width: 60%;
+    height: 80vh;
+}
+.fives_p{
+    width: 60%;
+    margin-left: 20%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
